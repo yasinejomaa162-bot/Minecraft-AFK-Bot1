@@ -1,6 +1,7 @@
-{
-  "serverHost": "axscraft.aternos.me",
-  "serverPort": 20587,
-  "botUsername": "MyBot",
-  "botChunk": 1
+{{
+  "ip": "axscraft.aternos.me",
+  "port": 20587,
+  "username": "AxsGuardBot",
+  "version": "false",
+  "auto_reconnect": true
 }
